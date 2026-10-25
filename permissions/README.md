@@ -11,3 +11,4 @@
 | `7-everybody` | Adds execute permission to the owner, group, and other users on the file `hello`. |
 | `8-James_Bond` | Sets the file `hello` permissions to no access for owner and group, and full access for others. |
 | `9-John_Doe` | Sets the file `hello` permissions to `rwxr-x-wx`. |
+| `10-mirror_permissions` | Sets the mode of the file `hello` the same as the file `olleh`'s mode. |
